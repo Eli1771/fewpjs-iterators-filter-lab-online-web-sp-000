@@ -1,12 +1,12 @@
 // Code your solution here
- function findMatching() {
-  
- }
+function findMatching() {
+
+}
  
- function fuzzyMatch() {
+function fuzzyMatch() {
    
- }
+}
  
- function matchName() {
+function matchName() {
    
- }
+}
