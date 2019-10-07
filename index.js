@@ -7,7 +7,7 @@ function findMatching(drivers, name) {
  
 function fuzzyMatch(drivers, name) {
   return drivers.filter(driver => {
-    return driver.slice(0, name.length) === name;
+    return driver.slice(0, name.length).toLowerCase() === name.toLowerCase();
   });
 }
  
