@@ -7,6 +7,6 @@ function fuzzyMatch(name) {
    
 }
  
-function matchName() {
+function matchName(name) {
    
 }
