@@ -3,7 +3,7 @@ function findMatching(name) {
 
 }
  
-function fuzzyMatch() {
+function fuzzyMatch(name) {
    
 }
  
